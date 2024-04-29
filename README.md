@@ -5,10 +5,13 @@ My name is Mihai and I am thrilled to introduce myself as a electronics engineer
 Here are some of the skills that I have acquired so far:
 
 * Java
-* Web development
+* HTML
+* CSS
+* Javascript
 * PHP
 * C++
 * MySQL
+* Python
 
 My ultimate goal is to make a meaningful impact in the tech industry by constantly exploring new technologies and finding innovative ways to apply my knowledge and skills. I am always open to collaboration and learning new things.
 
