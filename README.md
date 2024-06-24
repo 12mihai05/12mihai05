@@ -7,6 +7,7 @@ Here are some of the skills that I have acquired so far:
 * Java
 * HTML
 * CSS
+* Bootstrap
 * Javascript
 * PHP
 * C++
