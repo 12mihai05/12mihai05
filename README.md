@@ -9,6 +9,7 @@ Here are some of the skills that I have acquired so far:
 * CSS
 * Bootstrap
 * Javascript
+* React
 * PHP
 * C++
 * MySQL
