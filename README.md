@@ -10,6 +10,7 @@ Here are some of the skills that I have acquired so far:
 * Bootstrap
 * Javascript
 * React
+* NestJS
 * PHP
 * C++
 * MySQL
