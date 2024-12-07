@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-My name is Mihai and I am thrilled to introduce myself as a electronics engineering student at the prestigious University Politehnica of Bucharest (UPB). As an avid learner, I am always on the lookout for new opportunities to expand my knowledge and skills.
+My name is Mihai and I am thrilled to introduce myself as a computer science student at the prestigious University Politehnica of Bucharest (UPB). As an avid learner, I am always on the lookout for new opportunities to expand my knowledge and skills.
 
 Here are some of the skills that I have acquired so far:
 
