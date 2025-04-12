@@ -4,13 +4,18 @@ My name is Mihai and I am thrilled to introduce myself as a computer science stu
 
 Here are some of the skills that I have acquired so far:
 
-* Java
 * HTML
 * CSS
 * Bootstrap
 * Javascript
+* Typescript
 * React
 * NestJS
+* Bun.JS
+* Tailwind
+* Firebase
+* Docker
+* Java
 * PHP
 * C++
 * MySQL
